@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:** Adhithya K
+**Name:** Sharukesh T
 
-**Register Number:** 2305002001
+**Register Number:** 2305002022
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
